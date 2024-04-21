@@ -1,0 +1,34 @@
+## Context ##
+This is a sample store dataset, a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.This is a sample superstore dataset, a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.
+
+## Variables - Orders ##
+Order ID	: Order code	
+Order Date	: Date of order	
+Ship Date	: Date of shipment delivery	
+Ship Mode	: Mode of shipping used for shipment delivery
+Customer ID	: Customer code	
+Customer Name	: Customer name
+Segment		: (Categorical) Customer segment product was shipped to
+Country		: Country in which the shipment was delivered
+City		: City in which shipment was delivered
+State		: State in which the shipment was delivered
+Postal Code	: Postal code the shipment was delivered to
+Region		: Country region
+Product ID	: Product code
+Category	: The category product belongs to
+Sub-Category	: Sub-category of the product
+Product Name	: Product name
+Sales		: Sale made in USD
+Quantity	: Product quantity	
+Discount	: Discount given on the product
+Profit		: Profit/loss made on the sale
+
+
+## Variables - Returns ##
+Order ID	: Order code
+Returned	: Returned order
+
+
+## Variables - People ##
+Region		: Country region
+Person		: Region manager
